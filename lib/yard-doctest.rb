@@ -4,7 +4,7 @@ require 'minitest/spec'
 
 require 'yard/cli/doctest'
 require 'yard/doctest/example'
-require 'yard/doctest/rake'
+# require 'yard/doctest/rake'
 require 'yard/doctest/version'
 
 module YARD
